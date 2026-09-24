@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<!-- © 2026 YUCCHI. 無断複製・再配布禁止 -->
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>分散減目・分散増目のしくみ｜植木算でわかる図解 - ✿ YUCCHI ✿</title>
+<meta name="description" content="編み物の分散減目・分散増目のしくみを、算数の「植木算」とお花のイメージでやさしく解説。なぜ両端の目に手を加えないのか、なぜ「＋1」するのかが図解ですっきりわかります。">
+
+<!-- TODO: このページを公開したら、実際のURLに差し替えてください -->
+<link rel="canonical" href="https://webkorisu.github.io/yucchis-portal/dispersed-increase-decrease-guide/">
+<meta name="robots" content="index,follow">
+
+<!-- OGP -->
+<meta property="og:title" content="分散減目・分散増目のしくみ｜植木算でわかる図解 - ✿ YUCCHI ✿">
+<meta property="og:description" content="編み物の分散減目・分散増目のしくみを、算数の「植木算」とお花のイメージでやさしく解説。">
+<!-- TODO: 1200×630px前後のプレビュー画像を用意して、絶対URLに差し替えてください -->
+<meta property="og:image" content="https://webkorisu.github.io/yucchis-portal/dispersed-increase-decrease-guide/ogp.png">
+<meta property="og:url" content="https://webkorisu.github.io/yucchis-portal/dispersed-increase-decrease-guide/">
+<meta property="og:site_name" content="✿ YUCCHI ✿">
+<meta property="og:locale" content="ja_JP">
+<meta property="og:type" content="article">
+
+<!-- Xカード -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="分散減目・分散増目のしくみ｜植木算でわかる図解">
+<meta name="twitter:description" content="なぜ両端の目に手を加えないのか、なぜ「＋1」するのかが図解ですっきりわかります。">
+<meta name="twitter:image" content="https://webkorisu.github.io/yucchis-portal/dispersed-increase-decrease-guide/ogp.png">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Zen+Maru+Gothic:wght@400;500;700&display=swap" rel="stylesheet">
+
+<style>
+  :root{
+    --text:#6B5258;
+    --text-sub:#9C8A8E;
+    --bg:#FFF8F6;
+    --surface:#FFFFFF;
+    --border:#E8D8D8;
+    --primary:#C44569;
+    --radius-sm:10px;
+    --radius-md:16px;
+    color-scheme: light only;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    background:var(--bg);
+    color:var(--text);
+    font-family:'Zen Maru Gothic', sans-serif;
+    line-height:1.8;
+    -webkit-text-size-adjust:100%;
+  }
+  .wrap{
+    max-width:680px;
+    margin:0 auto;
+    padding:40px 20px 60px;
+  }
+
+  /* ヘッダー */
+  header{
+    text-align:center;
+    margin-bottom:28px;
+  }
+  header h1{
+    font-family:'Zen Maru Gothic', sans-serif;
+    font-size:clamp(19px, 4.6vw, 24px);
+    font-weight:500;
+    color:var(--text);
+    letter-spacing:.08em;
+    line-height:1.5;
+    margin:0 0 6px;
+  }
+  header h2{
+    font-family:'Cormorant Garamond', serif;
+    font-size:clamp(20px, 5vw, 28px);
+    font-weight:400;
+    color:var(--text);
+    letter-spacing:.12em;
+    line-height:1.2;
+    margin:0 0 12px;
+  }
+  header .title-ja-sub{
+    font-family:'Zen Maru Gothic', sans-serif;
+    font-size:14px;
+    font-weight:500;
+    color:var(--text);
+    letter-spacing:.05em;
+    opacity:.7;
+    margin:0 0 14px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    gap:10px;
+  }
+  header .title-ja-sub::before,
+  header .title-ja-sub::after{
+    content:'';
+    display:block;
+    width:24px;
+    height:1px;
+    background:currentColor;
+    opacity:.45;
+    flex-shrink:0;
+  }
+  header .brand{
+    font-family:'Cormorant Garamond', serif;
+    font-size:14px;
+    font-weight:400;
+    color:#A07080;
+    padding-top:10px;
+  }
+  header .brand .deco{ font-size:11px; }
+
+  /* 本文リード */
+  .lead-wrap{
+    position:relative;
+    margin-top:48px;
+  }
+  .above-card-row{
+    position:absolute;
+    top:-38px;
+    right:0;
+    display:flex;
+    align-items:center;
+    gap:6px;
+  }
+  .lead{
+    background:var(--surface);
+    border:1.5px solid var(--border);
+    border-radius:var(--radius-md);
+    padding:18px 20px;
+    font-size:15px;
+    margin-bottom:24px;
+  }
+
+  /* CTAリンク（計算アプリへ） */
+  .cta{
+    display:block;
+    text-align:center;
+    background:var(--primary);
+    color:#fff;
+    text-decoration:none;
+    font-weight:700;
+    font-size:clamp(13px, 3.6vw, 15px);
+    letter-spacing:.02em;
+    padding:14px 16px;
+    border-radius:999px;
+    margin:32px 0 32px;
+    transition:opacity .15s;
+    white-space:nowrap;
+  }
+  .cta:hover{ opacity:.88; }
+
+  /* 図解 */
+  figure{
+    margin:0 0 32px;
+    text-align:center;
+  }
+  figure img{
+    max-width:100%;
+    height:auto;
+    border-radius:var(--radius-md);
+  }
+  figure img.zoomable{ cursor:zoom-in; }
+  figcaption{
+    font-size:12px;
+    color:var(--text-sub);
+    margin-top:10px;
+  }
+
+  /* 図解の拡大表示（ライトボックス） */
+  .lightbox{
+    display:none;
+    position:fixed;
+    inset:0;
+    background:rgba(40,25,30,.85);
+    z-index:100;
+    align-items:flex-start;
+    justify-content:center;
+    overflow:auto;
+    padding:24px 16px;
+    cursor:zoom-out;
+    -webkit-overflow-scrolling:touch;
+  }
+  .lightbox.open{ display:flex; }
+  .lightbox img{
+    width:auto;
+    max-width:none;
+    min-width:100%;
+  }
+  @media (min-width:700px){
+    .lightbox img{ min-width:0; width:700px; max-width:none; }
+  }
+
+  /* 記事本文 */
+  article h2{
+    font-family:'Zen Maru Gothic', sans-serif;
+    font-size:19px;
+    font-weight:700;
+    color:var(--text);
+    letter-spacing:.04em;
+    margin:36px 0 12px;
+    padding-bottom:8px;
+    border-bottom:2px solid var(--border);
+  }
+  article h3{
+    font-family:'Zen Maru Gothic', sans-serif;
+    font-size:16px;
+    font-weight:700;
+    color:var(--primary);
+    margin:22px 0 8px;
+  }
+  article p{
+    font-size:15px;
+    margin:0 0 14px;
+  }
+  article ul{
+    font-size:15px;
+    margin:0 0 14px;
+    padding-left:1.4em;
+  }
+  article li{ margin-bottom:6px; }
+
+  /* 補足注記 */
+  .page-notes{
+    list-style:none;
+    margin:0 0 4px;
+    padding:0;
+    font-size:12.5px;
+    color:var(--text-sub);
+    line-height:1.9;
+  }
+  .page-notes li{
+    padding-left:1.3em;
+    position:relative;
+  }
+  .page-notes li::before{
+    content:'✿';
+    position:absolute;
+    left:0;
+    font-size:10px;
+    top:.35em;
+  }
+
+  /* フッター */
+  footer{ margin-top:16px; }
+  .data-note{
+    background:var(--surface);
+    border:1.5px solid var(--border);
+    border-radius:var(--radius-sm);
+    margin-bottom:6px;
+    overflow:hidden;
+  }
+  .data-note-btn{
+    width:100%;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    background:none;
+    border:none;
+    padding:13px 16px;
+    font-family:'Zen Maru Gothic', sans-serif;
+    font-size:14px;
+    font-weight:700;
+    color:var(--text);
+    cursor:pointer;
+    -webkit-tap-highlight-color:transparent;
+  }
+  .data-note-arrow{
+    font-size:11px;
+    color:var(--text-sub);
+    transition:transform .2s;
+  }
+  .data-note.open .data-note-arrow{ transform:rotate(180deg); }
+  .data-note-body{
+    max-height:0;
+    overflow:hidden;
+    transition:max-height .25s ease;
+    padding:0 16px;
+  }
+  .data-note.open .data-note-body{
+    max-height:400px;
+    padding:0 16px 16px;
+  }
+  .data-note-body p{
+    font-size:13px;
+    color:var(--text-sub);
+    line-height:1.8;
+    margin:0 0 8px;
+  }
+
+  .footer-row{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    margin-top:10px;
+    padding:8px 2px 0;
+  }
+  .footer-icons{
+    display:flex;
+    align-items:center;
+    gap:8px;
+  }
+  .icon-btn{
+    display:inline-flex;
+    align-items:center;
+    justify-content:center;
+    width:30px;
+    height:30px;
+    border-radius:6px;
+    border:1.5px solid var(--border);
+    background:var(--surface);
+    text-decoration:none;
+  }
+  .icon-btn svg{ fill:var(--text-sub); }
+  .last-updated{
+    font-size:11px;
+    color:var(--text-sub);
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header>
+    <h1>分散減目・分散増目をやさしく解説</h1>
+    <h2>How Decrease &amp; Increase Work</h2>
+    <p class="title-ja-sub">算数の植木算×お花の図解で解説</p>
+    <p class="brand"><span class="deco">✿</span>&nbsp;&nbsp;Y&nbsp;U&nbsp;C&nbsp;C&nbsp;H&nbsp;I&nbsp;&nbsp;<span class="deco">✿</span></p>
+  </header>
+
+  <div class="lead-wrap">
+    <div class="above-card-row">
+      <a href="https://webkorisu.github.io/yucchis-portal/" target="_blank" rel="noopener noreferrer"
+         aria-label="✿ YUCCHIのアプリ一覧を開く" class="icon-btn">
+        <svg width="17" height="17" viewBox="0 0 24 24" aria-hidden="true">
+          <path d="M12.74 1.67 L22 10 L22 20.5 Q22 22 20.5 22 L14.5 22 L14.5 15 L9.5 15 L9.5 22 L3.5 22 Q2 22 2 20.5 L2 10 L11.26 1.67 Q12 1 12.74 1.67 Z"/>
+        </svg>
+      </a>
+      <a href="https://x.com/yuttyan4444" target="_blank" rel="noopener noreferrer"
+         aria-label="XでYUCCHIをフォロー" class="icon-btn">
+        <svg width="14" height="14" viewBox="0 0 24 24" aria-hidden="true">
+          <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.747l7.73-8.835L1.254 2.25H8.08l4.254 5.622L18.244 2.25Zm-1.161 17.52h1.833L7.084 4.126H5.117L17.083 19.77Z"/>
+        </svg>
+      </a>
+    </div>
+    <p class="lead">編み物で分散減目・分散増目を平編みで行う場合、一般的に両端の目を減らしたり、増やしたりしません。あとで「とじ・はぎ」や「拾い目」をしやすくするためです。実はこの考え方、算数の「植木算」と同じ構造をしています。その仕組みを、お花を抜く・植えるイメージで図解にしました。</p>
+  </div>
+
+  <figure>
+    <img src="植木算と分散減目の図解.svg" alt="図解：分散減目・分散増目のしくみを植木算とお花のイメージで説明。両端の目には手を加えず、内側の目だけを均等に分けることを示している" class="zoomable" onclick="document.getElementById('imgLightbox').classList.add('open')">
+    <figcaption>タップ・ピンチで拡大してご覧いただけます</figcaption>
+  </figure>
+
+  <div class="lightbox" id="imgLightbox" onclick="this.classList.remove('open')">
+    <img src="植木算と分散減目の図解.svg" alt="図解の拡大表示">
+  </div>
+
+  <a class="cta" href="https://webkorisu.github.io/knitting-stitch-calculator/" target="_blank" rel="noopener noreferrer">
+    編み物分散増減計算アプリで計算する
+  </a>
+
+  <article>
+    <h2>なぜ「＋1」するの？</h2>
+    <p>分散減目・分散増目では、両端の目には手を加えず、そのまま残します。あとで「とじ・はぎ」や「拾い目」をしやすくするためです。</p>
+    <p>このルール、実は算数の「植木算」と同じ構造をしています。道の両端には木を植えず、内側だけに木を植えると、区間の数は木の本数より1つ多くなる、というものです。編み物も同じで、木＝目を減らす（増やす）場所、両端＝そのまま残す端の目、という対応関係になります。だから、増減したい目数に「＋1」した数で全体を分割するんです。</p>
+
+    <h3>分散減目：花を抜くイメージ</h3>
+    <p>すでに編んである目の列から、内側の目だけを間引くように減らしていくのが分散減目です。両端の目は、とじ・はぎや拾い目をしやすくするために、抜かずに残します。</p>
+
+    <h3>分散増目：花を植えるイメージ</h3>
+    <p>もとの目の列に、内側だけ新しい目を増やしていくのが分散増目です。こちらも両端には増やさず、そのまま残します。</p>
+
+    <h2>平編みと輪編みのちがい</h2>
+    <p>この「＋1」ルールは、往復して編む「平編み」の場合の考え方です。ぐるぐると輪にして編む「輪編み」では、両端という概念自体がなくなるため、増減する数と同じ数で全体を分けます（池のまわりに木を植えるパターン）。</p>
+  </article>
+
+  <a class="cta" href="https://webkorisu.github.io/knitting-stitch-calculator/" target="_blank" rel="noopener noreferrer">
+    編み物分散増減計算アプリで計算する
+  </a>
+
+  <ul class="page-notes">
+    <li>ここで紹介する計算方法は一例です。</li>
+    <li>区間は、できるだけ均等になるように配置しています</li>
+  </ul>
+
+  <footer>
+    <div class="data-note" id="aboutNote">
+      <button class="data-note-btn" onclick="document.getElementById('aboutNote').classList.toggle('open')">
+        <span>✿ このページについて</span>
+        <span class="data-note-arrow">▼</span>
+      </button>
+      <div class="data-note-body">
+        <p>このページは、編み物や日々の暮らしをちょっと便利にするために作られた個人制作サイトの解説記事です。</p>
+        <p>内容はすべて参考情報としてお使いください。編み物の仕上がりや作業結果はゲージ・素材・個人差によって異なります。必ずご自身でご確認のうえお使いください。</p>
+        <p>このページのコード・デザインは、作者（YUCCHI）が制作したものです。コードやデザインをそのまま複製・再配布・販売することはご遠慮ください。</p>
+        <p>作者（YUCCHI）は、このページの内容によって生じたいかなる損害についても責任を負いかねます。あらかじめご了承ください。</p>
+      </div>
+    </div>
+
+    <div class="footer-row">
+      <div class="footer-icons">
+        <a href="https://webkorisu.github.io/yucchis-portal/" target="_blank" rel="noopener noreferrer"
+           aria-label="✿ YUCCHIのアプリ一覧を開く" class="icon-btn">
+          <svg width="17" height="17" viewBox="0 0 24 24" aria-hidden="true">
+            <path d="M12.74 1.67 L22 10 L22 20.5 Q22 22 20.5 22 L14.5 22 L14.5 15 L9.5 15 L9.5 22 L3.5 22 Q2 22 2 20.5 L2 10 L11.26 1.67 Q12 1 12.74 1.67 Z"/>
+          </svg>
+        </a>
+        <a href="https://x.com/yuttyan4444" target="_blank" rel="noopener noreferrer"
+           aria-label="XでYUCCHIをフォロー" class="icon-btn">
+          <svg width="14" height="14" viewBox="0 0 24 24" aria-hidden="true">
+            <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.747l7.73-8.835L1.254 2.25H8.08l4.254 5.622L18.244 2.25Zm-1.161 17.52h1.833L7.084 4.126H5.117L17.083 19.77Z"/>
+          </svg>
+        </a>
+      </div>
+      <span class="last-updated">最終更新：2026.09.24</span>
+    </div>
+  </footer>
+
+</div>
+</body>
+</html>
