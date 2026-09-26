@@ -1,0 +1,317 @@
+<svg viewBox="0 0 1050 1839.1999999999998" xmlns="http://www.w3.org/2000/svg" font-family="'Hiragino Maru Gothic ProN','Yu Gothic',sans-serif" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo4YTEyNTQzOC1jNmUwLTQzYjMtOThlNy02MjFlYmI2MGZiMDMAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaFIFXfuy+t9WF7CDlEbUYZUAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo2MTFhZGFiYy0yNjBjLTQzN2UtODE2ZC0xMDQwNzc2MTcxOWZscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoDwQzMUbljMrmdSL9Z6GMwwAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggpMUeYwIV55auLxiJmmXW0ghFJGcJ2W0b55zQ/z+23KKkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaCEBIwZZzqbX/Z5EpvWH2BsAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCCgBLGW5jn7Ke+DJKsF3PmhWKN5KoCAEDDwtCHcpXpl1GRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjOZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjhhMTI1NDM4LWM2ZTAtNDNiMy05OGU3LTYyMWViYjYwZmIwMy9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmNkNWFlZDJkLWY4YzItNDEwNC1hYWQyLTQyN2Y2NGIxNDk4ZXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCCkxR5jAhXnlq4vGImaZdbSCEUkZwnZbRvnnND/P7bcoqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggazDc/M/BpTAk4QOUxLZsPGfEoixj9c8mOac5Eml8LueiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggT59Urh9CoZe7ZdIyafvF5DqRVJKAgbXRAdBOvEsSnoN0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQDS/Lpw8TCrZwNc0nvKlsJCgNf/cbxeCRDF/hpG8EYxYIOYXc3IWKTjkLlVelLytLbWol+osenxU0iqerS8szdM=</c2pa:manifest></metadata>
+  <!-- © 2026 YUCCHI. 無断複製・再配布禁止 -->
+  <rect x="0" y="0" width="1050" height="1839.1999999999998" fill="#FFF8F6"/>
+
+  <text x="525" y="38" text-anchor="middle" font-size="26" font-weight="700" fill="#C44569">編み物の分散減目・分散増目のイメージ</text>
+
+  <rect x="145" y="60" width="760" height="84" rx="16" fill="#FFFFFF" stroke="#D8C6C6" stroke-width="1.5"/>
+  <line x1="525" y1="72" x2="525" y2="132" stroke="#E8D8D8" stroke-width="1.5"/>
+
+  <text x="335" y="86" text-anchor="middle" font-size="15" font-weight="700" fill="#6B5258">💡 平編み（往復編み）の場合</text>
+  <text x="335" y="108" text-anchor="middle" font-size="12" fill="#6B5258">「編み目の分割＝算数の植木算（両端に木を植えないパターン）」</text>
+  <text x="335" y="128" text-anchor="middle" font-size="12" fill="#9C8A8E">✿増減する数に<tspan font-weight="700" fill="#C44569">+1</tspan>した数で全体を分けます</text>
+
+  <text x="715" y="86" text-anchor="middle" font-size="15" font-weight="700" fill="#6B5258">💡 輪編み（ぐるぐる編む）の場合</text>
+  <text x="715" y="108" text-anchor="middle" font-size="12" fill="#6B5258">「編み目の分割＝算数の植木算（池のまわりに木を植えるパターン）」</text>
+  <text x="715" y="128" text-anchor="middle" font-size="12" fill="#9C8A8E">✿増減する数と<tspan font-weight="700" fill="#C44569">同じ数</tspan>で全体を分けます</text>
+
+  <!-- ============ Section A: 分散減目（花を抜くイメージ） ============ -->
+  <rect x="20" y="180" width="1010" height="728.6" rx="24" fill="#FFFFFF" stroke="#A9C9D4" stroke-width="2"/>
+  <rect x="36" y="194" width="96" height="22" rx="11" fill="#5B8AA0"/>
+  <text x="84.0" y="209" text-anchor="middle" font-size="12" font-weight="700" fill="#FFFFFF">平編みの場合</text>
+  <rect x="870.8" y="194" width="143.2" height="22" rx="11" fill="none" stroke="#5B8AA0" stroke-width="1.5"/>
+  <text x="942.4" y="209" text-anchor="middle" font-size="12" font-weight="700" fill="#5B8AA0">花を抜く → 減らし目</text>
+
+  <text x="525" y="212" text-anchor="middle" font-size="24" font-weight="700" fill="#6B5258">分散減目のしくみ：花を抜くイメージ</text>
+  <text x="525" y="234" text-anchor="middle" font-size="13" fill="#9C8A8E">20本咲いている列から、<tspan font-weight="700" fill="#6B5258">内側の花を均等に</tspan>5本抜きます</text>
+
+  <g><line x1="120.0" y1="311" x2="120.0" y2="331" stroke="#D8CACA" stroke-width="1.5"/><circle cx="120.0" cy="289.0" r="5.5" fill="#8FB4C4"/><circle cx="127.6" cy="294.5" r="5.5" fill="#8FB4C4"/><circle cx="124.7" cy="303.5" r="5.5" fill="#8FB4C4"/><circle cx="115.3" cy="303.5" r="5.5" fill="#8FB4C4"/><circle cx="112.4" cy="294.5" r="5.5" fill="#8FB4C4"/><circle cx="120.0" cy="297" r="5" fill="#F9E4B8"/></g>
+  <g><line x1="162.6" y1="311" x2="162.6" y2="331" stroke="#D8CACA" stroke-width="1.5"/><circle cx="162.6" cy="289.0" r="5.5" fill="#8FB4C4"/><circle cx="170.2" cy="294.5" r="5.5" fill="#8FB4C4"/><circle cx="167.3" cy="303.5" r="5.5" fill="#8FB4C4"/><circle cx="157.9" cy="303.5" r="5.5" fill="#8FB4C4"/><circle cx="155.0" cy="294.5" r="5.5" fill="#8FB4C4"/><circle cx="162.6315789473684" cy="297" r="5" fill="#F9E4B8"/></g>
+  <g><line x1="205.3" y1="311" x2="205.3" y2="331" stroke="#D8CACA" stroke-width="1.5"/><circle cx="205.3" cy="289.0" r="5.5" fill="#8FB4C4"/><circle cx="212.9" cy="294.5" r="5.5" fill="#8FB4C4"/><circle cx="210.0" cy="303.5" r="5.5" fill="#8FB4C4"/><circle cx="200.6" cy="303.5" r="5.5" fill="#8FB4C4"/><circle cx="197.7" cy="294.5" r="5.5" fill="#8FB4C4"/><circle cx="205.26315789473682" cy="297" r="5" fill="#F9E4B8"/></g>
+  <g><line x1="247.89473684210526" y1="311" x2="247.89473684210526" y2="325" stroke="#4A7688" stroke-width="1.5" stroke-dasharray="2,2"/><circle cx="247.9" cy="289.0" r="5.5" fill="#CFE0E7"/><circle cx="255.5" cy="294.5" r="5.5" fill="#CFE0E7"/><circle cx="252.6" cy="303.5" r="5.5" fill="#CFE0E7"/><circle cx="243.2" cy="303.5" r="5.5" fill="#CFE0E7"/><circle cx="240.3" cy="294.5" r="5.5" fill="#CFE0E7"/><circle cx="247.89473684210526" cy="297" r="5" fill="#F9E4B8"/></g>
+  <text x="247.9" y="277" text-anchor="middle" font-size="15" font-weight="700" fill="#5B8AA0">↑</text>
+  <g><line x1="290.5" y1="311" x2="290.5" y2="331" stroke="#D8CACA" stroke-width="1.5"/><circle cx="290.5" cy="289.0" r="5.5" fill="#8FB4C4"/><circle cx="298.1" cy="294.5" r="5.5" fill="#8FB4C4"/><circle cx="295.2" cy="303.5" r="5.5" fill="#8FB4C4"/><circle cx="285.8" cy="303.5" r="5.5" fill="#8FB4C4"/><circle cx="282.9" cy="294.5" r="5.5" fill="#8FB4C4"/><circle cx="290.52631578947364" cy="297" r="5" fill="#F9E4B8"/></g>
+  <g><line x1="333.2" y1="311" x2="333.2" y2="331" stroke="#D8CACA" stroke-width="1.5"/><circle cx="333.2" cy="289.0" r="5.5" fill="#8FB4C4"/><circle cx="340.8" cy="294.5" r="5.5" fill="#8FB4C4"/><circle cx="337.9" cy="303.5" r="5.5" fill="#8FB4C4"/><circle cx="328.5" cy="303.5" r="5.5" fill="#8FB4C4"/><circle cx="325.5" cy="294.5" r="5.5" fill="#8FB4C4"/><circle cx="333.1578947368421" cy="297" r="5" fill="#F9E4B8"/></g>
+  <g><line x1="375.7894736842105" y1="311" x2="375.7894736842105" y2="325" stroke="#4A7688" stroke-width="1.5" stroke-dasharray="2,2"/><circle cx="375.8" cy="289.0" r="5.5" fill="#CFE0E7"/><circle cx="383.4" cy="294.5" r="5.5" fill="#CFE0E7"/><circle cx="380.5" cy="303.5" r="5.5" fill="#CFE0E7"/><circle cx="371.1" cy="303.5" r="5.5" fill="#CFE0E7"/><circle cx="368.2" cy="294.5" r="5.5" fill="#CFE0E7"/><circle cx="375.7894736842105" cy="297" r="5" fill="#F9E4B8"/></g>
+  <text x="375.8" y="277" text-anchor="middle" font-size="15" font-weight="700" fill="#5B8AA0">↑</text>
+  <g><line x1="418.4" y1="311" x2="418.4" y2="331" stroke="#D8CACA" stroke-width="1.5"/><circle cx="418.4" cy="289.0" r="5.5" fill="#8FB4C4"/><circle cx="426.0" cy="294.5" r="5.5" fill="#8FB4C4"/><circle cx="423.1" cy="303.5" r="5.5" fill="#8FB4C4"/><circle cx="413.7" cy="303.5" r="5.5" fill="#8FB4C4"/><circle cx="410.8" cy="294.5" r="5.5" fill="#8FB4C4"/><circle cx="418.4210526315789" cy="297" r="5" fill="#F9E4B8"/></g>
+  <g><line x1="461.1" y1="311" x2="461.1" y2="331" stroke="#D8CACA" stroke-width="1.5"/><circle cx="461.1" cy="289.0" r="5.5" fill="#8FB4C4"/><circle cx="468.7" cy="294.5" r="5.5" fill="#8FB4C4"/><circle cx="465.8" cy="303.5" r="5.5" fill="#8FB4C4"/><circle cx="456.4" cy="303.5" r="5.5" fill="#8FB4C4"/><circle cx="453.4" cy="294.5" r="5.5" fill="#8FB4C4"/><circle cx="461.05263157894734" cy="297" r="5" fill="#F9E4B8"/></g>
+  <g><line x1="503.7" y1="311" x2="503.7" y2="331" stroke="#D8CACA" stroke-width="1.5"/><circle cx="503.7" cy="289.0" r="5.5" fill="#8FB4C4"/><circle cx="511.3" cy="294.5" r="5.5" fill="#8FB4C4"/><circle cx="508.4" cy="303.5" r="5.5" fill="#8FB4C4"/><circle cx="499.0" cy="303.5" r="5.5" fill="#8FB4C4"/><circle cx="496.1" cy="294.5" r="5.5" fill="#8FB4C4"/><circle cx="503.6842105263158" cy="297" r="5" fill="#F9E4B8"/></g>
+  <g><line x1="546.3157894736842" y1="311" x2="546.3157894736842" y2="325" stroke="#4A7688" stroke-width="1.5" stroke-dasharray="2,2"/><circle cx="546.3" cy="289.0" r="5.5" fill="#CFE0E7"/><circle cx="553.9" cy="294.5" r="5.5" fill="#CFE0E7"/><circle cx="551.0" cy="303.5" r="5.5" fill="#CFE0E7"/><circle cx="541.6" cy="303.5" r="5.5" fill="#CFE0E7"/><circle cx="538.7" cy="294.5" r="5.5" fill="#CFE0E7"/><circle cx="546.3157894736842" cy="297" r="5" fill="#F9E4B8"/></g>
+  <text x="546.3" y="277" text-anchor="middle" font-size="15" font-weight="700" fill="#5B8AA0">↑</text>
+  <g><line x1="588.9" y1="311" x2="588.9" y2="331" stroke="#D8CACA" stroke-width="1.5"/><circle cx="588.9" cy="289.0" r="5.5" fill="#8FB4C4"/><circle cx="596.6" cy="294.5" r="5.5" fill="#8FB4C4"/><circle cx="593.6" cy="303.5" r="5.5" fill="#8FB4C4"/><circle cx="584.2" cy="303.5" r="5.5" fill="#8FB4C4"/><circle cx="581.3" cy="294.5" r="5.5" fill="#8FB4C4"/><circle cx="588.9473684210526" cy="297" r="5" fill="#F9E4B8"/></g>
+  <g><line x1="631.6" y1="311" x2="631.6" y2="331" stroke="#D8CACA" stroke-width="1.5"/><circle cx="631.6" cy="289.0" r="5.5" fill="#8FB4C4"/><circle cx="639.2" cy="294.5" r="5.5" fill="#8FB4C4"/><circle cx="636.3" cy="303.5" r="5.5" fill="#8FB4C4"/><circle cx="626.9" cy="303.5" r="5.5" fill="#8FB4C4"/><circle cx="624.0" cy="294.5" r="5.5" fill="#8FB4C4"/><circle cx="631.578947368421" cy="297" r="5" fill="#F9E4B8"/></g>
+  <g><line x1="674.2105263157895" y1="311" x2="674.2105263157895" y2="325" stroke="#4A7688" stroke-width="1.5" stroke-dasharray="2,2"/><circle cx="674.2" cy="289.0" r="5.5" fill="#CFE0E7"/><circle cx="681.8" cy="294.5" r="5.5" fill="#CFE0E7"/><circle cx="678.9" cy="303.5" r="5.5" fill="#CFE0E7"/><circle cx="669.5" cy="303.5" r="5.5" fill="#CFE0E7"/><circle cx="666.6" cy="294.5" r="5.5" fill="#CFE0E7"/><circle cx="674.2105263157895" cy="297" r="5" fill="#F9E4B8"/></g>
+  <text x="674.2" y="277" text-anchor="middle" font-size="15" font-weight="700" fill="#5B8AA0">↑</text>
+  <g><line x1="716.8" y1="311" x2="716.8" y2="331" stroke="#D8CACA" stroke-width="1.5"/><circle cx="716.8" cy="289.0" r="5.5" fill="#8FB4C4"/><circle cx="724.5" cy="294.5" r="5.5" fill="#8FB4C4"/><circle cx="721.5" cy="303.5" r="5.5" fill="#8FB4C4"/><circle cx="712.1" cy="303.5" r="5.5" fill="#8FB4C4"/><circle cx="709.2" cy="294.5" r="5.5" fill="#8FB4C4"/><circle cx="716.8421052631578" cy="297" r="5" fill="#F9E4B8"/></g>
+  <g><line x1="759.5" y1="311" x2="759.5" y2="331" stroke="#D8CACA" stroke-width="1.5"/><circle cx="759.5" cy="289.0" r="5.5" fill="#8FB4C4"/><circle cx="767.1" cy="294.5" r="5.5" fill="#8FB4C4"/><circle cx="764.2" cy="303.5" r="5.5" fill="#8FB4C4"/><circle cx="754.8" cy="303.5" r="5.5" fill="#8FB4C4"/><circle cx="751.9" cy="294.5" r="5.5" fill="#8FB4C4"/><circle cx="759.4736842105262" cy="297" r="5" fill="#F9E4B8"/></g>
+  <g><line x1="802.1052631578947" y1="311" x2="802.1052631578947" y2="325" stroke="#4A7688" stroke-width="1.5" stroke-dasharray="2,2"/><circle cx="802.1" cy="289.0" r="5.5" fill="#CFE0E7"/><circle cx="809.7" cy="294.5" r="5.5" fill="#CFE0E7"/><circle cx="806.8" cy="303.5" r="5.5" fill="#CFE0E7"/><circle cx="797.4" cy="303.5" r="5.5" fill="#CFE0E7"/><circle cx="794.5" cy="294.5" r="5.5" fill="#CFE0E7"/><circle cx="802.1052631578947" cy="297" r="5" fill="#F9E4B8"/></g>
+  <text x="802.1" y="277" text-anchor="middle" font-size="15" font-weight="700" fill="#5B8AA0">↑</text>
+  <g><line x1="844.7" y1="311" x2="844.7" y2="331" stroke="#D8CACA" stroke-width="1.5"/><circle cx="844.7" cy="289.0" r="5.5" fill="#8FB4C4"/><circle cx="852.3" cy="294.5" r="5.5" fill="#8FB4C4"/><circle cx="849.4" cy="303.5" r="5.5" fill="#8FB4C4"/><circle cx="840.0" cy="303.5" r="5.5" fill="#8FB4C4"/><circle cx="837.1" cy="294.5" r="5.5" fill="#8FB4C4"/><circle cx="844.7368421052631" cy="297" r="5" fill="#F9E4B8"/></g>
+  <g><line x1="887.4" y1="311" x2="887.4" y2="331" stroke="#D8CACA" stroke-width="1.5"/><circle cx="887.4" cy="289.0" r="5.5" fill="#8FB4C4"/><circle cx="895.0" cy="294.5" r="5.5" fill="#8FB4C4"/><circle cx="892.1" cy="303.5" r="5.5" fill="#8FB4C4"/><circle cx="882.7" cy="303.5" r="5.5" fill="#8FB4C4"/><circle cx="879.8" cy="294.5" r="5.5" fill="#8FB4C4"/><circle cx="887.3684210526316" cy="297" r="5" fill="#F9E4B8"/></g>
+  <g><line x1="930.0" y1="311" x2="930.0" y2="331" stroke="#D8CACA" stroke-width="1.5"/><circle cx="930.0" cy="289.0" r="5.5" fill="#8FB4C4"/><circle cx="937.6" cy="294.5" r="5.5" fill="#8FB4C4"/><circle cx="934.7" cy="303.5" r="5.5" fill="#8FB4C4"/><circle cx="925.3" cy="303.5" r="5.5" fill="#8FB4C4"/><circle cx="922.4" cy="294.5" r="5.5" fill="#8FB4C4"/><circle cx="929.9999999999999" cy="297" r="5" fill="#F9E4B8"/></g>
+
+  <rect x="110" y="331" width="830" height="8" rx="4" fill="#6B4A2F"/>
+
+  <path d="M120.0,351 Q128.5,363 137.1,363" fill="none" stroke="#9CB8C4" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="2,7"/>
+  <path d="M188.2,363 Q196.7,363 205.3,351" fill="none" stroke="#9CB8C4" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="2,7"/>
+  <text x="163" y="367" text-anchor="middle" font-size="13" font-weight="700" fill="#6B5258">区間6</text>
+  <path d="M247.9,351 Q256.4,363 265.0,363" fill="none" stroke="#9CB8C4" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="2,7"/>
+  <path d="M316.1,363 Q324.6,363 333.2,351" fill="none" stroke="#9CB8C4" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="2,7"/>
+  <text x="291" y="367" text-anchor="middle" font-size="13" font-weight="700" fill="#6B5258">区間5</text>
+  <path d="M375.8,351 Q395.0,363 414.2,363" fill="none" stroke="#9CB8C4" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="2,7"/>
+  <path d="M465.3,363 Q484.5,363 503.7,351" fill="none" stroke="#9CB8C4" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="2,7"/>
+  <text x="440" y="367" text-anchor="middle" font-size="13" font-weight="700" fill="#6B5258">区間4</text>
+  <path d="M546.3,351 Q554.8,363 563.4,363" fill="none" stroke="#9CB8C4" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="2,7"/>
+  <path d="M614.5,363 Q623.1,363 631.6,351" fill="none" stroke="#9CB8C4" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="2,7"/>
+  <text x="589" y="367" text-anchor="middle" font-size="13" font-weight="700" fill="#6B5258">区間3</text>
+  <path d="M674.2,351 Q682.7,363 691.3,363" fill="none" stroke="#9CB8C4" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="2,7"/>
+  <path d="M742.4,363 Q750.9,363 759.5,351" fill="none" stroke="#9CB8C4" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="2,7"/>
+  <text x="717" y="367" text-anchor="middle" font-size="13" font-weight="700" fill="#6B5258">区間2</text>
+  <path d="M802.1,351 Q821.3,363 840.5,363" fill="none" stroke="#9CB8C4" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="2,7"/>
+  <path d="M891.6,363 Q910.8,363 930.0,351" fill="none" stroke="#9CB8C4" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="2,7"/>
+  <text x="866" y="367" text-anchor="middle" font-size="13" font-weight="700" fill="#6B5258">区間1</text>
+
+  <text x="120" y="391" text-anchor="middle" font-size="13" fill="#6B5258">端</text>
+  <text x="120" y="406" text-anchor="middle" font-size="13" fill="#6B5258">（抜かない）</text>
+  <text x="930" y="391" text-anchor="middle" font-size="13" fill="#6B5258">端</text>
+  <text x="930" y="406" text-anchor="middle" font-size="13" fill="#6B5258">（抜かない）</text>
+
+  <text x="525" y="446" text-anchor="middle" font-size="21" fill="#6B5258">抜く花 <tspan font-weight="700" fill="#C44569">5本</tspan> → 区間 <tspan font-weight="700" fill="#C44569">6つ</tspan></text>
+  <text x="318.0" y="478" text-anchor="start" font-size="14" fill="#9C8A8E">✿ 抜く花の本数 ＋ 1 ＝ 区間の数</text>
+  <text x="318.0" y="500" text-anchor="start" font-size="13" fill="#9C8A8E">✿ 両端の花は抜かないから、区間の数は抜く本数より1つ多くなります</text>
+
+  <text x="525" y="548" text-anchor="middle" font-size="13" fill="#B0899A">この考え方で計算すると、こうなります</text>
+  <text x="525" y="570" text-anchor="middle" font-size="13" fill="#B0899A">↓</text>
+
+  <!-- ============ Section B: 分散増目（花を植えるイメージ） ============ -->
+  <rect x="20" y="948.6" width="1010" height="728.5999999999998" rx="24" fill="#FFFFFF" stroke="#E3B4C0" stroke-width="2"/>
+  <rect x="36" y="963" width="96" height="22" rx="11" fill="#B8677E"/>
+  <text x="84.0" y="978" text-anchor="middle" font-size="12" font-weight="700" fill="#FFFFFF">平編みの場合</text>
+  <rect x="870.8" y="963" width="143.2" height="22" rx="11" fill="none" stroke="#B8677E" stroke-width="1.5"/>
+  <text x="942.4" y="978" text-anchor="middle" font-size="12" font-weight="700" fill="#B8677E">花を植える → 増し目</text>
+  <text x="525" y="980.6" text-anchor="middle" font-size="24" font-weight="700" fill="#6B5258">分散増目のしくみ：花を植えるイメージ</text>
+  <text x="525" y="1002.6" text-anchor="middle" font-size="13" fill="#9C8A8E">15本の列に、<tspan font-weight="700" fill="#6B5258">内側の花を均等に</tspan>5本植えて20本にします</text>
+
+  <g><line x1="120.0" y1="1079.6" x2="120.0" y2="1099.6" stroke="#D8CACA" stroke-width="1.5"/><circle cx="120.0" cy="1057.6" r="5.5" fill="#D98CA0"/><circle cx="127.6" cy="1063.1" r="5.5" fill="#D98CA0"/><circle cx="124.7" cy="1072.1" r="5.5" fill="#D98CA0"/><circle cx="115.3" cy="1072.1" r="5.5" fill="#D98CA0"/><circle cx="112.4" cy="1063.1" r="5.5" fill="#D98CA0"/><circle cx="120.0" cy="1065.6" r="5" fill="#F9E4B8"/></g>
+  <g><line x1="162.6" y1="1079.6" x2="162.6" y2="1099.6" stroke="#D8CACA" stroke-width="1.5"/><circle cx="162.6" cy="1057.6" r="5.5" fill="#D98CA0"/><circle cx="170.2" cy="1063.1" r="5.5" fill="#D98CA0"/><circle cx="167.3" cy="1072.1" r="5.5" fill="#D98CA0"/><circle cx="157.9" cy="1072.1" r="5.5" fill="#D98CA0"/><circle cx="155.0" cy="1063.1" r="5.5" fill="#D98CA0"/><circle cx="162.6315789473684" cy="1065.6" r="5" fill="#F9E4B8"/></g>
+  <g><line x1="205.3" y1="1079.6" x2="205.3" y2="1099.6" stroke="#D8CACA" stroke-width="1.5"/><circle cx="205.3" cy="1057.6" r="5.5" fill="#D98CA0"/><circle cx="212.9" cy="1063.1" r="5.5" fill="#D98CA0"/><circle cx="210.0" cy="1072.1" r="5.5" fill="#D98CA0"/><circle cx="200.6" cy="1072.1" r="5.5" fill="#D98CA0"/><circle cx="197.7" cy="1063.1" r="5.5" fill="#D98CA0"/><circle cx="205.26315789473682" cy="1065.6" r="5" fill="#F9E4B8"/></g>
+  <g><rect x="245.89473684210526" y="1079.6" width="4" height="24.0" fill="#9C4F63"/><circle cx="247.9" cy="1057.6" r="5.5" fill="#EFD3DB"/><circle cx="255.5" cy="1063.1" r="5.5" fill="#EFD3DB"/><circle cx="252.6" cy="1072.1" r="5.5" fill="#EFD3DB"/><circle cx="243.2" cy="1072.1" r="5.5" fill="#EFD3DB"/><circle cx="240.3" cy="1063.1" r="5.5" fill="#EFD3DB"/><circle cx="247.89473684210526" cy="1065.6" r="5" fill="#F9E4B8"/></g>
+  <text x="247.9" y="1045.6" text-anchor="middle" font-size="15" font-weight="700" fill="#B8677E">↓</text>
+  <g><line x1="290.5" y1="1079.6" x2="290.5" y2="1099.6" stroke="#D8CACA" stroke-width="1.5"/><circle cx="290.5" cy="1057.6" r="5.5" fill="#D98CA0"/><circle cx="298.1" cy="1063.1" r="5.5" fill="#D98CA0"/><circle cx="295.2" cy="1072.1" r="5.5" fill="#D98CA0"/><circle cx="285.8" cy="1072.1" r="5.5" fill="#D98CA0"/><circle cx="282.9" cy="1063.1" r="5.5" fill="#D98CA0"/><circle cx="290.52631578947364" cy="1065.6" r="5" fill="#F9E4B8"/></g>
+  <g><line x1="333.2" y1="1079.6" x2="333.2" y2="1099.6" stroke="#D8CACA" stroke-width="1.5"/><circle cx="333.2" cy="1057.6" r="5.5" fill="#D98CA0"/><circle cx="340.8" cy="1063.1" r="5.5" fill="#D98CA0"/><circle cx="337.9" cy="1072.1" r="5.5" fill="#D98CA0"/><circle cx="328.5" cy="1072.1" r="5.5" fill="#D98CA0"/><circle cx="325.5" cy="1063.1" r="5.5" fill="#D98CA0"/><circle cx="333.1578947368421" cy="1065.6" r="5" fill="#F9E4B8"/></g>
+  <g><rect x="373.7894736842105" y="1079.6" width="4" height="24.0" fill="#9C4F63"/><circle cx="375.8" cy="1057.6" r="5.5" fill="#EFD3DB"/><circle cx="383.4" cy="1063.1" r="5.5" fill="#EFD3DB"/><circle cx="380.5" cy="1072.1" r="5.5" fill="#EFD3DB"/><circle cx="371.1" cy="1072.1" r="5.5" fill="#EFD3DB"/><circle cx="368.2" cy="1063.1" r="5.5" fill="#EFD3DB"/><circle cx="375.7894736842105" cy="1065.6" r="5" fill="#F9E4B8"/></g>
+  <text x="375.8" y="1045.6" text-anchor="middle" font-size="15" font-weight="700" fill="#B8677E">↓</text>
+  <g><line x1="418.4" y1="1079.6" x2="418.4" y2="1099.6" stroke="#D8CACA" stroke-width="1.5"/><circle cx="418.4" cy="1057.6" r="5.5" fill="#D98CA0"/><circle cx="426.0" cy="1063.1" r="5.5" fill="#D98CA0"/><circle cx="423.1" cy="1072.1" r="5.5" fill="#D98CA0"/><circle cx="413.7" cy="1072.1" r="5.5" fill="#D98CA0"/><circle cx="410.8" cy="1063.1" r="5.5" fill="#D98CA0"/><circle cx="418.4210526315789" cy="1065.6" r="5" fill="#F9E4B8"/></g>
+  <g><line x1="461.1" y1="1079.6" x2="461.1" y2="1099.6" stroke="#D8CACA" stroke-width="1.5"/><circle cx="461.1" cy="1057.6" r="5.5" fill="#D98CA0"/><circle cx="468.7" cy="1063.1" r="5.5" fill="#D98CA0"/><circle cx="465.8" cy="1072.1" r="5.5" fill="#D98CA0"/><circle cx="456.4" cy="1072.1" r="5.5" fill="#D98CA0"/><circle cx="453.4" cy="1063.1" r="5.5" fill="#D98CA0"/><circle cx="461.05263157894734" cy="1065.6" r="5" fill="#F9E4B8"/></g>
+  <g><line x1="503.7" y1="1079.6" x2="503.7" y2="1099.6" stroke="#D8CACA" stroke-width="1.5"/><circle cx="503.7" cy="1057.6" r="5.5" fill="#D98CA0"/><circle cx="511.3" cy="1063.1" r="5.5" fill="#D98CA0"/><circle cx="508.4" cy="1072.1" r="5.5" fill="#D98CA0"/><circle cx="499.0" cy="1072.1" r="5.5" fill="#D98CA0"/><circle cx="496.1" cy="1063.1" r="5.5" fill="#D98CA0"/><circle cx="503.6842105263158" cy="1065.6" r="5" fill="#F9E4B8"/></g>
+  <g><rect x="544.3157894736842" y="1079.6" width="4" height="24.0" fill="#9C4F63"/><circle cx="546.3" cy="1057.6" r="5.5" fill="#EFD3DB"/><circle cx="553.9" cy="1063.1" r="5.5" fill="#EFD3DB"/><circle cx="551.0" cy="1072.1" r="5.5" fill="#EFD3DB"/><circle cx="541.6" cy="1072.1" r="5.5" fill="#EFD3DB"/><circle cx="538.7" cy="1063.1" r="5.5" fill="#EFD3DB"/><circle cx="546.3157894736842" cy="1065.6" r="5" fill="#F9E4B8"/></g>
+  <text x="546.3" y="1045.6" text-anchor="middle" font-size="15" font-weight="700" fill="#B8677E">↓</text>
+  <g><line x1="588.9" y1="1079.6" x2="588.9" y2="1099.6" stroke="#D8CACA" stroke-width="1.5"/><circle cx="588.9" cy="1057.6" r="5.5" fill="#D98CA0"/><circle cx="596.6" cy="1063.1" r="5.5" fill="#D98CA0"/><circle cx="593.6" cy="1072.1" r="5.5" fill="#D98CA0"/><circle cx="584.2" cy="1072.1" r="5.5" fill="#D98CA0"/><circle cx="581.3" cy="1063.1" r="5.5" fill="#D98CA0"/><circle cx="588.9473684210526" cy="1065.6" r="5" fill="#F9E4B8"/></g>
+  <g><line x1="631.6" y1="1079.6" x2="631.6" y2="1099.6" stroke="#D8CACA" stroke-width="1.5"/><circle cx="631.6" cy="1057.6" r="5.5" fill="#D98CA0"/><circle cx="639.2" cy="1063.1" r="5.5" fill="#D98CA0"/><circle cx="636.3" cy="1072.1" r="5.5" fill="#D98CA0"/><circle cx="626.9" cy="1072.1" r="5.5" fill="#D98CA0"/><circle cx="624.0" cy="1063.1" r="5.5" fill="#D98CA0"/><circle cx="631.578947368421" cy="1065.6" r="5" fill="#F9E4B8"/></g>
+  <g><rect x="672.2105263157895" y="1079.6" width="4" height="24.0" fill="#9C4F63"/><circle cx="674.2" cy="1057.6" r="5.5" fill="#EFD3DB"/><circle cx="681.8" cy="1063.1" r="5.5" fill="#EFD3DB"/><circle cx="678.9" cy="1072.1" r="5.5" fill="#EFD3DB"/><circle cx="669.5" cy="1072.1" r="5.5" fill="#EFD3DB"/><circle cx="666.6" cy="1063.1" r="5.5" fill="#EFD3DB"/><circle cx="674.2105263157895" cy="1065.6" r="5" fill="#F9E4B8"/></g>
+  <text x="674.2" y="1045.6" text-anchor="middle" font-size="15" font-weight="700" fill="#B8677E">↓</text>
+  <g><line x1="716.8" y1="1079.6" x2="716.8" y2="1099.6" stroke="#D8CACA" stroke-width="1.5"/><circle cx="716.8" cy="1057.6" r="5.5" fill="#D98CA0"/><circle cx="724.5" cy="1063.1" r="5.5" fill="#D98CA0"/><circle cx="721.5" cy="1072.1" r="5.5" fill="#D98CA0"/><circle cx="712.1" cy="1072.1" r="5.5" fill="#D98CA0"/><circle cx="709.2" cy="1063.1" r="5.5" fill="#D98CA0"/><circle cx="716.8421052631578" cy="1065.6" r="5" fill="#F9E4B8"/></g>
+  <g><line x1="759.5" y1="1079.6" x2="759.5" y2="1099.6" stroke="#D8CACA" stroke-width="1.5"/><circle cx="759.5" cy="1057.6" r="5.5" fill="#D98CA0"/><circle cx="767.1" cy="1063.1" r="5.5" fill="#D98CA0"/><circle cx="764.2" cy="1072.1" r="5.5" fill="#D98CA0"/><circle cx="754.8" cy="1072.1" r="5.5" fill="#D98CA0"/><circle cx="751.9" cy="1063.1" r="5.5" fill="#D98CA0"/><circle cx="759.4736842105262" cy="1065.6" r="5" fill="#F9E4B8"/></g>
+  <g><rect x="800.1052631578947" y="1079.6" width="4" height="24.0" fill="#9C4F63"/><circle cx="802.1" cy="1057.6" r="5.5" fill="#EFD3DB"/><circle cx="809.7" cy="1063.1" r="5.5" fill="#EFD3DB"/><circle cx="806.8" cy="1072.1" r="5.5" fill="#EFD3DB"/><circle cx="797.4" cy="1072.1" r="5.5" fill="#EFD3DB"/><circle cx="794.5" cy="1063.1" r="5.5" fill="#EFD3DB"/><circle cx="802.1052631578947" cy="1065.6" r="5" fill="#F9E4B8"/></g>
+  <text x="802.1" y="1045.6" text-anchor="middle" font-size="15" font-weight="700" fill="#B8677E">↓</text>
+  <g><line x1="844.7" y1="1079.6" x2="844.7" y2="1099.6" stroke="#D8CACA" stroke-width="1.5"/><circle cx="844.7" cy="1057.6" r="5.5" fill="#D98CA0"/><circle cx="852.3" cy="1063.1" r="5.5" fill="#D98CA0"/><circle cx="849.4" cy="1072.1" r="5.5" fill="#D98CA0"/><circle cx="840.0" cy="1072.1" r="5.5" fill="#D98CA0"/><circle cx="837.1" cy="1063.1" r="5.5" fill="#D98CA0"/><circle cx="844.7368421052631" cy="1065.6" r="5" fill="#F9E4B8"/></g>
+  <g><line x1="887.4" y1="1079.6" x2="887.4" y2="1099.6" stroke="#D8CACA" stroke-width="1.5"/><circle cx="887.4" cy="1057.6" r="5.5" fill="#D98CA0"/><circle cx="895.0" cy="1063.1" r="5.5" fill="#D98CA0"/><circle cx="892.1" cy="1072.1" r="5.5" fill="#D98CA0"/><circle cx="882.7" cy="1072.1" r="5.5" fill="#D98CA0"/><circle cx="879.8" cy="1063.1" r="5.5" fill="#D98CA0"/><circle cx="887.3684210526316" cy="1065.6" r="5" fill="#F9E4B8"/></g>
+  <g><line x1="930.0" y1="1079.6" x2="930.0" y2="1099.6" stroke="#D8CACA" stroke-width="1.5"/><circle cx="930.0" cy="1057.6" r="5.5" fill="#D98CA0"/><circle cx="937.6" cy="1063.1" r="5.5" fill="#D98CA0"/><circle cx="934.7" cy="1072.1" r="5.5" fill="#D98CA0"/><circle cx="925.3" cy="1072.1" r="5.5" fill="#D98CA0"/><circle cx="922.4" cy="1063.1" r="5.5" fill="#D98CA0"/><circle cx="929.9999999999999" cy="1065.6" r="5" fill="#F9E4B8"/></g>
+
+  <rect x="110" y="1099.6" width="830" height="8" rx="4" fill="#6B4A2F"/>
+
+  <path d="M120.0,1119.6 Q128.5,1131.6 137.1,1131.6" fill="none" stroke="#E3B4C0" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="2,7"/>
+  <path d="M188.2,1131.6 Q196.7,1131.6 205.3,1119.6" fill="none" stroke="#E3B4C0" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="2,7"/>
+  <text x="163" y="1135.6" text-anchor="middle" font-size="13" font-weight="700" fill="#6B5258">区間6</text>
+  <path d="M247.9,1119.6 Q256.4,1131.6 265.0,1131.6" fill="none" stroke="#E3B4C0" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="2,7"/>
+  <path d="M316.1,1131.6 Q324.6,1131.6 333.2,1119.6" fill="none" stroke="#E3B4C0" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="2,7"/>
+  <text x="291" y="1135.6" text-anchor="middle" font-size="13" font-weight="700" fill="#6B5258">区間5</text>
+  <path d="M375.8,1119.6 Q395.0,1131.6 414.2,1131.6" fill="none" stroke="#E3B4C0" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="2,7"/>
+  <path d="M465.3,1131.6 Q484.5,1131.6 503.7,1119.6" fill="none" stroke="#E3B4C0" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="2,7"/>
+  <text x="440" y="1135.6" text-anchor="middle" font-size="13" font-weight="700" fill="#6B5258">区間4</text>
+  <path d="M546.3,1119.6 Q554.8,1131.6 563.4,1131.6" fill="none" stroke="#E3B4C0" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="2,7"/>
+  <path d="M614.5,1131.6 Q623.1,1131.6 631.6,1119.6" fill="none" stroke="#E3B4C0" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="2,7"/>
+  <text x="589" y="1135.6" text-anchor="middle" font-size="13" font-weight="700" fill="#6B5258">区間3</text>
+  <path d="M674.2,1119.6 Q682.7,1131.6 691.3,1131.6" fill="none" stroke="#E3B4C0" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="2,7"/>
+  <path d="M742.4,1131.6 Q750.9,1131.6 759.5,1119.6" fill="none" stroke="#E3B4C0" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="2,7"/>
+  <text x="717" y="1135.6" text-anchor="middle" font-size="13" font-weight="700" fill="#6B5258">区間2</text>
+  <path d="M802.1,1119.6 Q821.3,1131.6 840.5,1131.6" fill="none" stroke="#E3B4C0" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="2,7"/>
+  <path d="M891.6,1131.6 Q910.8,1131.6 930.0,1119.6" fill="none" stroke="#E3B4C0" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="2,7"/>
+  <text x="866" y="1135.6" text-anchor="middle" font-size="13" font-weight="700" fill="#6B5258">区間1</text>
+
+  <text x="120" y="1159.6" text-anchor="middle" font-size="13" fill="#6B5258">端</text>
+  <text x="120" y="1174.6" text-anchor="middle" font-size="13" fill="#6B5258">（植えない）</text>
+  <text x="930" y="1159.6" text-anchor="middle" font-size="13" fill="#6B5258">端</text>
+  <text x="930" y="1174.6" text-anchor="middle" font-size="13" fill="#6B5258">（植えない）</text>
+
+  <text x="525" y="1214.6" text-anchor="middle" font-size="21" fill="#6B5258">植える花 <tspan font-weight="700" fill="#C44569">5本</tspan> → 区間 <tspan font-weight="700" fill="#C44569">6つ</tspan></text>
+  <text x="318.0" y="1246.6" text-anchor="start" font-size="14" fill="#9C8A8E">✿ 植える花の本数 ＋ 1 ＝ 区間の数</text>
+  <text x="318.0" y="1268.6" text-anchor="start" font-size="13" fill="#9C8A8E">✿ 両端には植えないから、区間の数は植える本数より1つ多くなります</text>
+
+  <text x="525" y="1316.6" text-anchor="middle" font-size="13" fill="#B0899A">この考え方で計算すると、こうなります</text>
+  <text x="525" y="1338.6" text-anchor="middle" font-size="13" fill="#B0899A">↓</text>
+  <text x="525" y="626" text-anchor="middle" font-size="24" font-weight="700" fill="#6B5258">分散減目の例（20目 → 15目）</text>
+  <text x="525" y="661" text-anchor="middle" font-size="21" fill="#6B5258"><tspan font-weight="700" fill="#C44569">5目</tspan>減らす場合 → <tspan font-weight="700" fill="#C44569">6分割</tspan></text>
+  <text x="289.1" y="697" text-anchor="start" font-size="13" fill="#9C8A8E">✿ 割り切れない場合は、余った目を1目ずつ区間に足していきます</text>
+  <text x="289.1" y="721" text-anchor="start" font-size="13" fill="#9C8A8E">✿ 編み地の両端は、とじ・はぎや拾い目をしやすくするため、増減目をしません</text>
+  <text x="289.1" y="745" text-anchor="start" font-size="13" fill="#9C8A8E">✿ 目の多い区間から先に減らし目をすると、より均等に仕上がります</text>
+  <g transform="translate(525,763) scale(0.85) translate(-525,-763)">
+
+  <text x="117" y="777" text-anchor="middle" font-size="13" font-weight="700" fill="#6B5258">区間6</text>
+  <text x="261" y="777" text-anchor="middle" font-size="13" font-weight="700" fill="#6B5258">区間5</text>
+  <text x="429" y="777" text-anchor="middle" font-size="13" font-weight="700" fill="#6B5258">区間4</text>
+  <text x="597" y="777" text-anchor="middle" font-size="13" font-weight="700" fill="#6B5258">区間3</text>
+  <text x="741" y="777" text-anchor="middle" font-size="13" font-weight="700" fill="#6B5258">区間2</text>
+  <text x="909" y="777" text-anchor="middle" font-size="13" font-weight="700" fill="#6B5258">区間1</text>
+
+  <!-- 区間6：減目なし -->
+  <rect x="49" y="792" width="136" height="48" rx="24" fill="#EDEAEA"/>
+  <circle cx="69" cy="816" r="14" fill="#FFFFFF" stroke="#D8CACA" stroke-width="1.5"/>
+  <circle cx="117" cy="816" r="14" fill="#FFFFFF" stroke="#D8CACA" stroke-width="1.5"/>
+  <circle cx="165" cy="816" r="14" fill="#FFFFFF" stroke="#D8CACA" stroke-width="1.5"/>
+
+  <!-- 区間5 -->
+  <rect x="193" y="792" width="136" height="48" rx="24" fill="#D9E8EE"/>
+  <circle cx="213" cy="816" r="14" fill="#5B8AA0" stroke="#4A7688" stroke-width="1.5"/>
+  <path d="M208,813 L218,813 L213,821 Z" fill="#FFFFFF"/>
+  <circle cx="261" cy="816" r="14" fill="#FFFFFF" stroke="#D8CACA" stroke-width="1.5"/>
+  <circle cx="309" cy="816" r="14" fill="#FFFFFF" stroke="#D8CACA" stroke-width="1.5"/>
+  <path d="M213,832 Q237,858 261,832" fill="none" stroke="#9CB8C4" stroke-width="1.5" stroke-dasharray="3,3"/>
+  <text x="237" y="881" text-anchor="middle" font-size="17" font-weight="700" fill="#3D7A94">2</text>
+
+  <!-- 区間4（4目） -->
+  <rect x="337" y="792" width="184" height="48" rx="24" fill="#D9E8EE"/>
+  <circle cx="357" cy="816" r="14" fill="#5B8AA0" stroke="#4A7688" stroke-width="1.5"/>
+  <path d="M352,813 L362,813 L357,821 Z" fill="#FFFFFF"/>
+  <circle cx="405" cy="816" r="14" fill="#FFFFFF" stroke="#D8CACA" stroke-width="1.5"/>
+  <circle cx="453" cy="816" r="14" fill="#FFFFFF" stroke="#D8CACA" stroke-width="1.5"/>
+  <circle cx="501" cy="816" r="14" fill="#FFFFFF" stroke="#D8CACA" stroke-width="1.5"/>
+  <path d="M357,832 Q381,858 405,832" fill="none" stroke="#9CB8C4" stroke-width="1.5" stroke-dasharray="3,3"/>
+  <text x="381" y="881" text-anchor="middle" font-size="17" font-weight="700" fill="#3D7A94">3</text>
+
+  <!-- 区間3 -->
+  <rect x="529" y="792" width="136" height="48" rx="24" fill="#D9E8EE"/>
+  <circle cx="549" cy="816" r="14" fill="#5B8AA0" stroke="#4A7688" stroke-width="1.5"/>
+  <path d="M544,813 L554,813 L549,821 Z" fill="#FFFFFF"/>
+  <circle cx="597" cy="816" r="14" fill="#FFFFFF" stroke="#D8CACA" stroke-width="1.5"/>
+  <circle cx="645" cy="816" r="14" fill="#FFFFFF" stroke="#D8CACA" stroke-width="1.5"/>
+  <path d="M549,832 Q573,858 597,832" fill="none" stroke="#9CB8C4" stroke-width="1.5" stroke-dasharray="3,3"/>
+  <text x="573" y="881" text-anchor="middle" font-size="17" font-weight="700" fill="#3D7A94">2</text>
+
+  <!-- 区間2 -->
+  <rect x="673" y="792" width="136" height="48" rx="24" fill="#D9E8EE"/>
+  <circle cx="693" cy="816" r="14" fill="#5B8AA0" stroke="#4A7688" stroke-width="1.5"/>
+  <path d="M688,813 L698,813 L693,821 Z" fill="#FFFFFF"/>
+  <circle cx="741" cy="816" r="14" fill="#FFFFFF" stroke="#D8CACA" stroke-width="1.5"/>
+  <circle cx="789" cy="816" r="14" fill="#FFFFFF" stroke="#D8CACA" stroke-width="1.5"/>
+  <path d="M693,832 Q717,858 741,832" fill="none" stroke="#9CB8C4" stroke-width="1.5" stroke-dasharray="3,3"/>
+  <text x="717" y="881" text-anchor="middle" font-size="17" font-weight="700" fill="#3D7A94">2</text>
+
+  <!-- 区間1（4目・編み始め） -->
+  <rect x="817" y="792" width="184" height="48" rx="24" fill="#D9E8EE"/>
+  <circle cx="837" cy="816" r="14" fill="#5B8AA0" stroke="#4A7688" stroke-width="1.5"/>
+  <path d="M832,813 L842,813 L837,821 Z" fill="#FFFFFF"/>
+  <circle cx="885" cy="816" r="14" fill="#FFFFFF" stroke="#D8CACA" stroke-width="1.5"/>
+  <circle cx="933" cy="816" r="14" fill="#FFFFFF" stroke="#D8CACA" stroke-width="1.5"/>
+  <circle cx="981" cy="816" r="14" fill="#FFFFFF" stroke="#D8CACA" stroke-width="1.5"/>
+  <path d="M837,832 Q861,858 885,832" fill="none" stroke="#9CB8C4" stroke-width="1.5" stroke-dasharray="3,3"/>
+  <text x="861" y="881" text-anchor="middle" font-size="17" font-weight="700" fill="#3D7A94">3</text>
+
+  <text x="69" y="881" text-anchor="middle" font-size="13" fill="#9C8A8E">3</text>
+  <text x="165" y="881" text-anchor="middle" font-size="13" fill="#9C8A8E">1</text>
+  <text x="309" y="881" text-anchor="middle" font-size="13" fill="#9C8A8E">1</text>
+  <text x="501" y="881" text-anchor="middle" font-size="13" fill="#9C8A8E">1</text>
+  <text x="645" y="881" text-anchor="middle" font-size="13" fill="#9C8A8E">1</text>
+  <text x="789" y="881" text-anchor="middle" font-size="13" fill="#9C8A8E">1</text>
+  <text x="981" y="881" text-anchor="middle" font-size="13" fill="#9C8A8E">1</text>
+
+  <text x="69" y="899" text-anchor="middle" font-size="12" fill="#6B5258">(15目)</text>
+  <text x="981" y="899" text-anchor="middle" font-size="12" fill="#6B5258">(編み始め)</text>
+
+  </g>  <text x="525" y="1394.6" text-anchor="middle" font-size="24" font-weight="700" fill="#6B5258">分散増目の例（15目 → 20目）</text>
+  <text x="525" y="1429.6" text-anchor="middle" font-size="21" fill="#6B5258"><tspan font-weight="700" fill="#C44569">5目</tspan>増やす場合 → <tspan font-weight="700" fill="#C44569">6分割</tspan></text>
+  <text x="289.1" y="1465.6" text-anchor="start" font-size="13" fill="#9C8A8E">✿ 割り切れない場合は、余った目を1目ずつ区間に足していきます</text>
+  <text x="289.1" y="1489.6" text-anchor="start" font-size="13" fill="#9C8A8E">✿ 編み地の両端は、とじ・はぎや拾い目をしやすくするため、増減目をしません</text>
+  <text x="289.1" y="1513.6" text-anchor="start" font-size="13" fill="#9C8A8E">✿ 目の少ない区間から先に増し目をすると、より均等に仕上がります</text>
+  <g transform="translate(525,1531.6) scale(0.85) translate(-525,-1531.6)">
+
+  <text x="117" y="1545.6" text-anchor="middle" font-size="13" font-weight="700" fill="#6B5258">区間6</text>
+  <text x="261" y="1545.6" text-anchor="middle" font-size="13" font-weight="700" fill="#6B5258">区間5</text>
+  <text x="429" y="1545.6" text-anchor="middle" font-size="13" font-weight="700" fill="#6B5258">区間4</text>
+  <text x="597" y="1545.6" text-anchor="middle" font-size="13" font-weight="700" fill="#6B5258">区間3</text>
+  <text x="741" y="1545.6" text-anchor="middle" font-size="13" font-weight="700" fill="#6B5258">区間2</text>
+  <text x="909" y="1545.6" text-anchor="middle" font-size="13" font-weight="700" fill="#6B5258">区間1</text>
+
+  <!-- 区間6：増やしなし -->
+  <rect x="49" y="1560.6" width="136" height="48" rx="24" fill="#EDEAEA"/>
+  <circle cx="69" cy="1584.6" r="14" fill="#FFFFFF" stroke="#D8CACA" stroke-width="1.5"/>
+  <circle cx="117" cy="1584.6" r="14" fill="#FFFFFF" stroke="#D8CACA" stroke-width="1.5"/>
+  <circle cx="165" cy="1584.6" r="14" fill="#FFFFFF" stroke="#D8CACA" stroke-width="1.5"/>
+
+  <!-- 区間5 -->
+  <rect x="193" y="1560.6" width="136" height="48" rx="24" fill="#F7DCE1"/>
+  <circle cx="213" cy="1584.6" r="14" fill="#B8677E" stroke="#9C4F63" stroke-width="1.5"/>
+  <path d="M208,1587.6 L218,1587.6 L213,1579.6 Z" fill="#FFFFFF"/>
+  <circle cx="261" cy="1584.6" r="14" fill="#FFFFFF" stroke="#D8CACA" stroke-width="1.5"/>
+  <circle cx="309" cy="1584.6" r="14" fill="#FFFFFF" stroke="#D8CACA" stroke-width="1.5"/>
+
+  <!-- 区間4（4目） -->
+  <rect x="337" y="1560.6" width="184" height="48" rx="24" fill="#F7DCE1"/>
+  <circle cx="357" cy="1584.6" r="14" fill="#B8677E" stroke="#9C4F63" stroke-width="1.5"/>
+  <path d="M352,1587.6 L362,1587.6 L357,1579.6 Z" fill="#FFFFFF"/>
+  <circle cx="405" cy="1584.6" r="14" fill="#FFFFFF" stroke="#D8CACA" stroke-width="1.5"/>
+  <circle cx="453" cy="1584.6" r="14" fill="#FFFFFF" stroke="#D8CACA" stroke-width="1.5"/>
+  <circle cx="501" cy="1584.6" r="14" fill="#FFFFFF" stroke="#D8CACA" stroke-width="1.5"/>
+
+  <!-- 区間3 -->
+  <rect x="529" y="1560.6" width="136" height="48" rx="24" fill="#F7DCE1"/>
+  <circle cx="549" cy="1584.6" r="14" fill="#B8677E" stroke="#9C4F63" stroke-width="1.5"/>
+  <path d="M544,1587.6 L554,1587.6 L549,1579.6 Z" fill="#FFFFFF"/>
+  <circle cx="597" cy="1584.6" r="14" fill="#FFFFFF" stroke="#D8CACA" stroke-width="1.5"/>
+  <circle cx="645" cy="1584.6" r="14" fill="#FFFFFF" stroke="#D8CACA" stroke-width="1.5"/>
+
+  <!-- 区間2 -->
+  <rect x="673" y="1560.6" width="136" height="48" rx="24" fill="#F7DCE1"/>
+  <circle cx="693" cy="1584.6" r="14" fill="#B8677E" stroke="#9C4F63" stroke-width="1.5"/>
+  <path d="M688,1587.6 L698,1587.6 L693,1579.6 Z" fill="#FFFFFF"/>
+  <circle cx="741" cy="1584.6" r="14" fill="#FFFFFF" stroke="#D8CACA" stroke-width="1.5"/>
+  <circle cx="789" cy="1584.6" r="14" fill="#FFFFFF" stroke="#D8CACA" stroke-width="1.5"/>
+
+  <!-- 区間1（4目・編み始め） -->
+  <rect x="817" y="1560.6" width="184" height="48" rx="24" fill="#F7DCE1"/>
+  <circle cx="837" cy="1584.6" r="14" fill="#B8677E" stroke="#9C4F63" stroke-width="1.5"/>
+  <path d="M832,1587.6 L842,1587.6 L837,1579.6 Z" fill="#FFFFFF"/>
+  <circle cx="885" cy="1584.6" r="14" fill="#FFFFFF" stroke="#D8CACA" stroke-width="1.5"/>
+  <circle cx="933" cy="1584.6" r="14" fill="#FFFFFF" stroke="#D8CACA" stroke-width="1.5"/>
+  <circle cx="981" cy="1584.6" r="14" fill="#FFFFFF" stroke="#D8CACA" stroke-width="1.5"/>
+
+  <text x="69" y="1649.6" text-anchor="middle" font-size="13" fill="#9C8A8E">3</text>
+  <text x="69" y="1667.6" text-anchor="middle" font-size="12" fill="#6B5258">(20目)</text>
+  <text x="165" y="1649.6" text-anchor="middle" font-size="13" fill="#9C8A8E">1</text>
+
+  <text x="213" y="1649.6" text-anchor="middle" font-size="17" font-weight="700" fill="#C44569">3</text>
+  <text x="309" y="1649.6" text-anchor="middle" font-size="13" fill="#9C8A8E">1</text>
+
+  <text x="357" y="1649.6" text-anchor="middle" font-size="17" font-weight="700" fill="#C44569">4</text>
+  <text x="501" y="1649.6" text-anchor="middle" font-size="13" fill="#9C8A8E">1</text>
+
+  <text x="549" y="1649.6" text-anchor="middle" font-size="17" font-weight="700" fill="#C44569">3</text>
+  <text x="645" y="1649.6" text-anchor="middle" font-size="13" fill="#9C8A8E">1</text>
+
+  <text x="693" y="1649.6" text-anchor="middle" font-size="17" font-weight="700" fill="#C44569">3</text>
+  <text x="789" y="1649.6" text-anchor="middle" font-size="13" fill="#9C8A8E">1</text>
+
+  <text x="837" y="1649.6" text-anchor="middle" font-size="17" font-weight="700" fill="#C44569">4</text>
+  <text x="981" y="1649.6" text-anchor="middle" font-size="13" fill="#9C8A8E">1</text>
+  <text x="981" y="1667.6" text-anchor="middle" font-size="12" fill="#6B5258">(編み始め)</text>
+
+  </g>
+  <!-- ============ 共通の説明 ============ -->
+  <text x="8" y="1717.1999999999998" text-anchor="start" font-size="13" fill="#9C8A8E">✿ ここで紹介する計算方法は一例です。</text>
+  <text x="8" y="1735.1999999999998" text-anchor="start" font-size="13" fill="#9C8A8E">✿ 区間は、できるだけ均等になるように配置しています</text>
+
+  <!-- ============ 署名 ============ -->
+  <text x="525" y="1779.1999999999998" text-anchor="middle" font-size="13" letter-spacing="3.5" fill="#C9A0AE"><tspan font-size="9" dy="-2">✿</tspan><tspan dy="2">  YUCCHI  </tspan><tspan font-size="9" dy="-2">✿</tspan></text>
+  <text x="525" y="1799.1999999999998" text-anchor="middle" font-size="11" fill="#BBA8AC">この図解の無断転載・複製はご遠慮ください</text>
+</svg>
