@@ -4,7 +4,7 @@
 <!-- © 2026 YUCCHI. 無断複製・再配布禁止 -->
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>分散減目・分散増目のしくみ｜植木算でわかる図解 - ✿ YUCCHI ✿</title>
+<title>編み物の分散減目・分散増目のしくみ｜植木算でわかる図解 - ✿ YUCCHI ✿</title>
 <meta name="description" content="編み物の分散減目・分散増目のしくみを、算数の「植木算」とお花のイメージでやさしく解説。なぜ両端の目に手を加えないのか、なぜ「＋1」するのかが図解ですっきりわかります。">
 <link rel="icon" href="favicon.ico">
 
@@ -12,7 +12,7 @@
 <meta name="robots" content="index,follow">
 
 <!-- OGP -->
-<meta property="og:title" content="分散減目・分散増目のしくみ｜植木算でわかる図解 - ✿ YUCCHI ✿">
+<meta property="og:title" content="編み物の分散減目・分散増目のしくみ｜植木算でわかる図解 - ✿ YUCCHI ✿">
 <meta property="og:description" content="編み物の分散減目・分散増目のしくみを、算数の「植木算」とお花のイメージでやさしく解説。">
 <!-- TODO: 1200×630px前後のプレビュー画像を用意して、絶対URLに差し替えてください -->
 <meta property="og:image" content="https://webkorisu.github.io/decrease-increase-work/ogp.png">
@@ -23,7 +23,7 @@
 
 <!-- Xカード -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="分散減目・分散増目のしくみ｜植木算でわかる図解">
+<meta name="twitter:title" content="編み物の分散減目・分散増目のしくみ｜植木算でわかる図解">
 <meta name="twitter:description" content="なぜ両端の目に手を加えないのか、なぜ「＋1」するのかが図解ですっきりわかります。">
 <meta name="twitter:image" content="https://webkorisu.github.io/decrease-increase-work/ogp.png">
 
@@ -129,8 +129,26 @@
     justify-content:flex-end;
     align-items:center;
     gap:6px;
-    margin-bottom:20px;
+    margin-bottom:10px;
   }
+  .quick-link{
+    text-align:center;
+    margin:0 0 28px;
+  }
+  .quick-link a{
+    display:inline-flex;
+    align-items:center;
+    gap:4px;
+    font-family:'Zen Maru Gothic', sans-serif;
+    font-size:13px;
+    font-weight:700;
+    color:var(--primary);
+    text-decoration:none;
+    border-bottom:1.5px solid var(--border);
+    padding-bottom:2px;
+    transition:opacity .15s;
+  }
+  .quick-link a:hover{ opacity:.7; }
   .lead{
     background:var(--surface);
     border:1.5px solid var(--border);
@@ -169,6 +187,40 @@
   figure{
     margin:0 0 32px;
     text-align:center;
+  }
+  .diagram-toggle{
+    margin:0 0 32px;
+  }
+  .diagram-toggle summary{
+    cursor:pointer;
+    list-style:none;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    gap:6px;
+    width:fit-content;
+    margin:0 auto 14px;
+    font-family:'Zen Maru Gothic', sans-serif;
+    font-weight:700;
+    font-size:14px;
+    color:var(--primary);
+    background:var(--surface);
+    border:1.5px solid var(--border);
+    border-radius:999px;
+    padding:10px 22px;
+  }
+  .diagram-toggle summary::-webkit-details-marker{ display:none; }
+  .diagram-toggle summary::marker{ content:''; }
+  .diagram-toggle summary::after{
+    content:'▾';
+    font-size:11px;
+    transition:transform .2s;
+  }
+  .diagram-toggle[open] summary::after{
+    transform:rotate(180deg);
+  }
+  .diagram-toggle figure{
+    margin:0;
   }
   figure img{
     max-width:100%;
@@ -357,7 +409,7 @@
 <div class="wrap">
 
   <header>
-    <h1>分散減目・分散増目をやさしく解説</h1>
+    <h1>編み物の分散減目・分散増目を<br>やさしく解説</h1>
     <h2>How Decrease &amp; Increase Work</h2>
     <p class="title-ja-sub">算数の植木算×お花の図解で解説</p>
     <p class="brand"><a href="https://webkorisu.github.io/yucchis-portal/" target="_blank" rel="noopener noreferrer" class="brand-link" aria-label="✿ YUCCHIのポータルサイトを開く"><span class="deco">✿</span>&nbsp;&nbsp;Y&nbsp;U&nbsp;C&nbsp;C&nbsp;H&nbsp;I&nbsp;&nbsp;<span class="deco">✿</span></a></p>
@@ -378,23 +430,32 @@
     </a>
   </div>
 
+  <p class="quick-link">
+    <a href="https://webkorisu.github.io/knitting-stitch-calculator/" target="_blank" rel="noopener noreferrer">
+      分散増減計算アプリを使う →
+    </a>
+  </p>
+
   <article>
     <h2>分散減目・分散増目とは？</h2>
-    <p>分散減目とは、減らしたい目を編み目の列全体に均等に減らしていく方法です。反対に、増やしたい目を列全体に均等に増やしていく方法を分散増目といいます。</p>
+    <p>分散減目・・・目数を均等に減らす技法<br>分散増目・・・目数を均等に増やす技法</p>
     <p>セーターの袖や身頃の切り替え部分など、均等に目数を減らしたい（増やしたい）ときに使います。</p>
   </article>
 
   <div class="lead-wrap">
     <h2>分散減目・分散増目のしくみと植木算</h2>
-    <p class="lead">編み物で分散減目・分散増目を平編みで行う場合、一般的に両端の目を減らしたり、増やしたりしません。あとで「とじ・はぎ」や「拾い目」をしやすくするためです。実はこの考え方、<span class="marker">算数の「植木算」</span>と同じ構造をしています。その仕組みを、お花を抜く・植えるイメージで図解にしました。</p>
+    <p class="lead">編み物で分散減目・分散増目を平編みで行う場合、一般的に両端の目を減らしたり、増やしたりしません。あとで「とじ・はぎ」や「拾い目」をしやすく、綺麗に仕上げるためです。実はこの考え方、<span class="marker">算数の「植木算」</span>と同じ構造をしています。その仕組みを、お花を抜く・植えるイメージで図解にしました。</p>
   </div>
 
-  <figure>
-    <a href="植木算と分散減目の図解.svg" target="_blank" rel="noopener noreferrer" aria-label="図解を別タブで拡大表示">
-      <img src="植木算と分散減目の図解.svg" alt="図解：分散減目・分散増目のしくみを植木算とお花のイメージで説明。両端の目には手を加えず、内側の目だけを均等に分けることを示している" class="zoomable">
-    </a>
-    <figcaption>タップすると別タブで拡大表示されます</figcaption>
-  </figure>
+  <details class="diagram-toggle" id="diagramToggle" open>
+    <summary>図解を見る</summary>
+    <figure>
+      <a href="植木算と分散減目の図解.svg" target="_blank" rel="noopener noreferrer" aria-label="図解を別タブで拡大表示">
+        <img src="植木算と分散減目の図解.svg" alt="図解：分散減目・分散増目のしくみを植木算とお花のイメージで説明。両端の目には手を加えず、内側の目だけを均等に分けることを示している" class="zoomable">
+      </a>
+      <figcaption>タップすると別タブで拡大表示されます</figcaption>
+    </figure>
+  </details>
 
   <a class="cta" href="https://webkorisu.github.io/knitting-stitch-calculator/" target="_blank" rel="noopener noreferrer">
     編み物分散増減計算アプリで計算する
@@ -402,8 +463,8 @@
 
   <article>
     <h2>なぜ「＋1」するの？</h2>
-    <p>分散減目・分散増目では、両端の目は減らし目や増し目をせず、そのまま残します。あとで「とじ・はぎ」や「拾い目」をしやすくするためです。</p>
-    <p>このルール、実は算数の「植木算」と同じ構造をしています。道の両端には木を植えず、内側だけに木を植えると、区間の数は木の本数より1つ多くなる、というものです。編み物も同じで、内側の木＝目を減らす（増やす）場所、両端の木＝そのまま残す端の目、という対応関係になります。そのため、編み物でも増減したい目数に「＋1」した数で全体を分けることで、より均等に減らし目や増し目をすることができるのです。</p>
+    <p>分散減目・分散増目を平編みで行う場合、両端の目は減らし目や増し目をせず、そのまま残します。あとで「とじ・はぎ」や「拾い目」をしやすく、綺麗に仕上げるためです。</p>
+    <p>このルール、実は算数の「植木算」と同じ構造をしています。道の両端には木を植えず、内側だけに木を植えると、区間の数は木の本数より1つ多くなる、というものです。編み物の分散計算でも、内側の目を減らしたり、増やしたりしたいので、内側の木＝内側の目を減らす（増やす）場所、両端の木＝そのまま残す端の目とする、という対応関係になり、増減したい目数に「＋1」をした数で全体を分けてから、減らし目や増し目します。</p>
 
     <h3>分散減目</h3>
     <p>元々の目数から、内側の目だけを均等に減らしていくのが分散減目です。両端の目は、とじ・はぎや拾い目をしやすくするために、減らさずに残します。</p>
@@ -412,16 +473,16 @@
     <p>元々の目数に、内側だけ均等に新しい目を増やしていくのが分散増目です。こちらも両端には増やさず、そのまま残します。</p>
 
     <h2>実際に計算してみよう</h2>
-    <p>手順が分かれば、電卓があれば手計算でも求められます。ここでは20目→15目（分散減目）、15目→20目（分散増目）を例に、実際の手順をご紹介します。</p>
+    <p>手順が分かれば、手計算でも求められます。ここでは20目→15目（分散減目）、15目→20目（分散増目）を例に、実際の手順をご紹介します。</p>
 
     <h3>分散減目の手順</h3>
     <ol>
-      <li>減らす目数を決める（元の目数 − 減らした後の目数）</li>
+      <li>減らす目数を決める（元々の目数 − 減らした後の目数）</li>
       <li>分割数＝減らす目数＋1を求める</li>
-      <li>元の目数÷分割数を計算し、「商（1区間の基本目数）」と「あまり」を出す</li>
-      <li>あまりの数だけ「基本目数＋1」の大きい区間を作り、そこで1目減らす</li>
-      <li>残りは「基本目数」の区間にして、そこでも1目減らす</li>
-      <li>最後にもう1区間だけ、減らさずにそのまま編む区間を作る</li>
+      <li>元々の目数÷分割数を計算し、「商（1区間の基本目数）」と「あまり」を出す</li>
+      <li>あまりの数は、区間に一目ずつ割り振る。</li>
+      <li>大きい区間・小さい区間をバランスよく並べる（左端の区間は減らし目なしの区間にする）</li>
+      <li>目数の大きい区間から一目ずつ減らし目する（区間の左側で2目一度）</li>
     </ol>
     <p class="example-label">具体例（20目 → 15目に減らす場合）</p>
     <ul>
@@ -444,11 +505,12 @@
     <h3>分散増目の手順</h3>
     <p>考え方は同じですが、「小さい区間から先に増やす」という点だけ、減目と順番が逆になります。</p>
     <ol>
-      <li>増やす目数を決める（増やした後の目数 − 元の目数）</li>
+      <li>増やす目数を決める（増やした後の目数 − 元々の目数）</li>
       <li>分割数＝増やす目数＋1を求める</li>
-      <li>元の目数÷分割数を計算し、「商」と「あまり」を出す</li>
-      <li>まず「商」の目数の区間（小さい区間）で、すべて1目ずつ増やす</li>
-      <li>残りの「あまり」の区間（大きい区間）のうち、一部は1目増やし、一部はそのまま（増やさない）にして帳尻を合わせる</li>
+      <li>元々の目数÷分割数を計算し、「商（1区間の基本目数）」と「あまり」を出す</li>
+      <li>あまりの数は、区間に一目ずつ割り振る。</li>
+      <li>大きい区間・小さい区間をバランスよく並べる（左端の区間は増し目なしの区間にする）</li>
+      <li>目数の小さい区間から一目ずつ増し目をする（区間の左側で増し目）</li>
     </ol>
     <p class="example-label">具体例（15目 → 20目に増やす場合）</p>
     <ul>
@@ -490,8 +552,8 @@
       <div class="data-note-body">
         <p>このページは、編み物や日々の暮らしをちょっと便利にするために作られた個人制作サイトの解説記事です。</p>
         <p>内容はすべて参考情報としてお使いください。編み物の仕上がりや作業結果はゲージ・素材・個人差によって異なります。必ずご自身でご確認のうえお使いください。</p>
-        <p>このページのコード・デザインは、作者（YUCCHI）が制作したものです。コードやデザインをそのまま複製・再配布・販売することはご遠慮ください。</p>
         <p>作者（YUCCHI）は、このページの内容によって生じたいかなる損害についても責任を負いかねます。あらかじめご了承ください。</p>
+        <p>このページのコード・デザインは、作者（YUCCHI）が制作したものです。コードやデザインをそのまま複製・再配布・販売することはご遠慮ください。</p>
       </div>
     </div>
 
@@ -515,5 +577,15 @@
   </footer>
 
 </div>
+
+<script>
+  (function(){
+    var d = document.getElementById('diagramToggle');
+    if (d && window.innerWidth < 700) {
+      d.removeAttribute('open');
+    }
+  })();
+</script>
+
 </body>
 </html>
